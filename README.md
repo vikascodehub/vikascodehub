@@ -24,3 +24,6 @@ A passionate self-taught Web Developer from India.
 
 <br />
 <br />
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/vikasthakur0427/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikas Thakur" height="30" width="40" /></a>
