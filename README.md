@@ -31,4 +31,4 @@ A passionate self-taught Web Developer from India.
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikas0786&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vikas's github stats" />
-![counter](https://enrx1kbn6w0ijkr.m.pipedream.net)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas0786&layout=compact&theme=material-palenight" />
