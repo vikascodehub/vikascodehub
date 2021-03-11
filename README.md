@@ -5,6 +5,7 @@ A passionate self-taught Web Developer from India.
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on Javascript and React.js
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Chess
 
 <br />
@@ -30,3 +31,4 @@ A passionate self-taught Web Developer from India.
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikas0786&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vikas's github stats" />
+![counter](https://enrx1kbn6w0ijkr.m.pipedream.net)
