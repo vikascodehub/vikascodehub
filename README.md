@@ -27,5 +27,5 @@ A passionate self-taught Web Developer from India.
 <a href="https://www.linkedin.com/in/vikasthakur0427/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikas Thakur" height="30" width="40" /></a>
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vikas0786&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Vikas's github stats" />
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas0786&layout=compact&theme=material-palenight" />
