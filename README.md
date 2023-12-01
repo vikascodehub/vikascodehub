@@ -26,6 +26,3 @@ A passionate self-taught Web Developer from India.
 ### Connect with me:
 <a href="https://www.linkedin.com/in/vikasthakur0427/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikas Thakur" height="30" width="40" /></a>
 
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas0786&layout=compact&theme=material-palenight" />
