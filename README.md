@@ -9,12 +9,6 @@
 - 🧠 Lately diving deep into AI integrations
 - 🎯 Focused on building meaningful tools and clean UI
 
-## 🚀 Quick Highlights  
-- 🏗️ **Now:** Software Engineer @ Sumtracker (since Dec 2023)  
-- 🌱 **Free time:** Working on [Quire](https://quire.in) – side project turned passion  
-- 🎓 **Sharing dev stuff** on [YouTube](https://youtube.com/@codingwithjeevan) (5K+ subs)  
-- 💡 Learned a lot from my first startup [ByteEat.in](https://byteeat.in)
-
 ## 💼 Roles
 - Senior Software Engineer @ Sumtracker (since Dec 2023)
 - Senior Frontend Lead @ Intellemo.AI (2021-2023)
