@@ -31,9 +31,9 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-henna-six-66.vercel.app/api?username=vikascodehub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikascodehub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-henna-six-66.vercel.app/api/top-langs/?username=vikascodehub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-henna-six-66.vercel.app/api?username=vikascodehub&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-henna-six-66.vercel.app/api/top-langs/?username=vikascodehub&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vikascodehub&theme=dark&hide_border=false)
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-engineer)
